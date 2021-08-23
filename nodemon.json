@@ -1,0 +1,4 @@
+{
+  "ignore": ["src/storage.json"],
+  "ext": "ts"
+}
